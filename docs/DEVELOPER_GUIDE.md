@@ -1,6 +1,6 @@
-# Nano Banana Developer Guide
+# Nano Banana Pro Developer Guide
 
-A comprehensive guide for developers who want to understand, modify, or extend Nano Banana. Written for developers with traditional programming backgrounds (C, C++, Java) who may be new to Python and modern web/AI development.
+A comprehensive guide for developers who want to understand, modify, or extend Nano Banana Pro. Written for developers with traditional programming backgrounds (C, C++, Java) who may be new to Python and modern web/AI development.
 
 ---
 
@@ -485,7 +485,7 @@ The entry point that ties everything together:
 def main():
     # Set up command-line argument parsing
     parser = argparse.ArgumentParser(
-        description="Generate images using Gemini API (Nano Banana)",
+        description="Generate images using Gemini API (Nano Banana Pro)",
     )
 
     # Define positional arguments (required)
@@ -891,4 +891,4 @@ docs: update developer guide
 
 ---
 
-You now have everything needed to understand, modify, and extend Nano Banana. Happy coding!
+You now have everything needed to understand, modify, and extend Nano Banana Pro. Happy coding!

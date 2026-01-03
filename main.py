@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Nano Banana - Image Generation CLI for Claude Code
+Nano Banana Pro - Image Generation CLI for Claude Code
 
 Generate and edit images using Google's Gemini API.
 
@@ -141,7 +141,7 @@ def get_output_path(base_path: str, index: int, total: int) -> str:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate images using Gemini API (Nano Banana)",
+        description="Generate images using Gemini API (Nano Banana Pro)",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )

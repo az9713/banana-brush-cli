@@ -1,14 +1,14 @@
-# Nano Banana - Project Context for Claude Code
+# Nano Banana Pro - Project Context for Claude Code
 
 This file provides context for Claude Code to understand and work with this project effectively.
 
 ## Project Overview
 
-**Nano Banana** is a command-line image generation tool that integrates Google's Gemini API with Claude Code. It enables AI-assisted image generation, editing, and style-consistent asset creation directly from the terminal.
+**Nano Banana Pro** is a command-line image generation tool that integrates Google's Gemini API with Claude Code. It enables AI-assisted image generation, editing, and style-consistent asset creation directly from the terminal.
 
 ## Acknowledgements
 
-This project is inspired by the YouTube video **["I Added Unlimited Image Generation To Claude Code (Nano Banana)"](https://www.youtube.com/watch?v=NBibgD7I48w&t=10s)** by Zen van Riel.
+This project is inspired by the YouTube video **["I Added Unlimited Image Generation To Claude Code (Nano Banana Pro)"](https://www.youtube.com/watch?v=NBibgD7I48w&t=10s)** by Zen van Riel.
 
 All code and documentation were created by **Claude Code** and **Claude Opus 4.5**.
 

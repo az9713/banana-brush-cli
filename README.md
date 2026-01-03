@@ -1,4 +1,4 @@
-# Nano Banana - AI Image Generation Tool
+# Nano Banana Pro - AI Image Generation Tool
 
 A command-line tool for generating and editing images using Google's Gemini API. Designed for use with Claude Code to enable AI-assisted image generation, editing, and style-consistent asset creation.
 
@@ -209,7 +209,7 @@ uv run python main.py output.png "prompt" --model gemini-2.5-flash-image
 
 ## Acknowledgements
 
-This project is inspired by the YouTube video **["I Added Unlimited Image Generation To Claude Code (Nano Banana)"](https://www.youtube.com/watch?v=NBibgD7I48w&t=10s)** by Zen van Riel.
+This project is inspired by the YouTube video **["I Added Unlimited Image Generation To Claude Code (Nano Banana Pro)"](https://www.youtube.com/watch?v=NBibgD7I48w&t=10s)** by Zen van Riel.
 
 All code and documentation were created by **Claude Code** and **Claude Opus 4.5**.
 

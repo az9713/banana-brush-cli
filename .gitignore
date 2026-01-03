@@ -5,6 +5,7 @@
 
 # Original documentation notes (not for repo)
 docs/*.txt
+docs/main_py_usage.jpg
 
 # Python
 __pycache__/

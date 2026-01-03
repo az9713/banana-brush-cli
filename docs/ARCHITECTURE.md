@@ -1,6 +1,6 @@
-# Nano Banana Architecture
+# Nano Banana Pro Architecture
 
-A technical deep-dive into the architecture and design decisions of Nano Banana. This document explains the "why" behind the code structure.
+A technical deep-dive into the architecture and design decisions of Nano Banana Pro. This document explains the "why" behind the code structure.
 
 ---
 
