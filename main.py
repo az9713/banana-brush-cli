@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Banana Brush CLI - Image Generation for Claude Code
+Banana Brush CLI - AI Image Generation Tool
 
 Generate and edit images using Google's Gemini API (Nano Banana Pro).
 

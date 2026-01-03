@@ -215,7 +215,7 @@ nano-banana/
 ├── main.py                 # Main application (all code is here)
 ├── pyproject.toml          # Project configuration and dependencies
 ├── README.md               # Quick reference documentation
-├── CLAUDE.md               # Context file for Claude Code AI
+├── CLAUDE.md               # Project context file
 ├── .env                    # (Optional) Environment variables
 ├── styles/                 # Style template files
 │   └── blue_glass_3d.md    # Example style

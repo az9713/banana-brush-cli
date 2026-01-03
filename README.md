@@ -1,6 +1,6 @@
 # Banana Brush CLI - AI Image Generation Tool
 
-A command-line tool for generating and editing images using Google's Gemini API. Designed for use with Claude Code to enable AI-assisted image generation, editing, and style-consistent asset creation.
+A command-line tool for generating and editing images using Google's Gemini API.
 
 ---
 
@@ -110,7 +110,7 @@ nano-banana/
 ├── main.py                    # Core application
 ├── pyproject.toml             # Dependencies
 ├── README.md                  # This file
-├── CLAUDE.md                  # Claude Code context
+├── CLAUDE.md                  # Project context file
 ├── .env.example               # API key template
 ├── .gitignore                 # Git ignore rules
 ├── styles/
