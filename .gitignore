@@ -1,0 +1,25 @@
+.ignore/
+
+# Environment variables (contains secrets)
+.env
+
+# Original documentation notes (not for repo)
+docs/*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
