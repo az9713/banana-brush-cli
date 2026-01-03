@@ -1,6 +1,6 @@
-# Nano Banana Pro Developer Guide
+# Banana Brush CLI Developer Guide
 
-A comprehensive guide for developers who want to understand, modify, or extend Nano Banana Pro. Written for developers with traditional programming backgrounds (C, C++, Java) who may be new to Python and modern web/AI development.
+A comprehensive guide for developers who want to understand, modify, or extend Banana Brush CLI. Written for developers with traditional programming backgrounds (C, C++, Java) who may be new to Python and modern web/AI development.
 
 ---
 
@@ -891,4 +891,4 @@ docs: update developer guide
 
 ---
 
-You now have everything needed to understand, modify, and extend Nano Banana Pro. Happy coding!
+You now have everything needed to understand, modify, and extend Banana Brush CLI. Happy coding!

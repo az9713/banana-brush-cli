@@ -1,15 +1,15 @@
-# Nano Banana Pro User Guide
+# Banana Brush CLI User Guide
 
-A complete guide for users who want to generate AI images using Nano Banana Pro. No programming experience required.
+A complete guide for users who want to generate AI images using Banana Brush CLI. No programming experience required.
 
 ---
 
 ## Table of Contents
 
-1. [What is Nano Banana Pro?](#what-is-nano-banana)
+1. [What is Banana Brush CLI?](#what-is-banana-brush-cli)
 2. [Understanding the Basics](#understanding-the-basics)
 3. [Installation Guide](#installation-guide)
-4. [How to Use Nano Banana Pro](#how-to-use-nano-banana)
+4. [How to Use Banana Brush CLI](#how-to-use-banana-brush-cli)
 5. [Working with Styles](#working-with-styles)
 6. [Editing Images](#editing-images)
 7. [Advanced Features](#advanced-features)
@@ -18,9 +18,9 @@ A complete guide for users who want to generate AI images using Nano Banana Pro.
 
 ---
 
-## What is Nano Banana Pro?
+## What is Banana Brush CLI?
 
-Nano Banana Pro is a tool that lets you create images using artificial intelligence (AI). Instead of drawing or using photo editing software, you describe what you want in plain English, and the AI creates it for you.
+Banana Brush CLI is a tool that lets you create images using artificial intelligence (AI). It uses Google's Gemini image generation API (nicknamed "Nano Banana Pro" by the community). Instead of drawing or using photo editing software, you describe what you want in plain English, and the AI creates it for you.
 
 ### What Can You Create?
 
@@ -34,7 +34,7 @@ Nano Banana Pro is a tool that lets you create images using artificial intellige
 ### How Does It Work?
 
 1. You type a description (called a "prompt") of what you want
-2. Nano Banana Pro sends your description to Google's AI
+2. Banana Brush CLI sends your description to Google's AI
 3. The AI generates an image based on your description
 4. The image is saved to your computer
 
@@ -60,7 +60,7 @@ A terminal (also called command line or console) is a text-based way to interact
 
 ### What is a Command?
 
-A command is an instruction you type in the terminal. For Nano Banana Pro, commands look like this:
+A command is an instruction you type in the terminal. For Banana Brush CLI, commands look like this:
 
 ```
 uv run python main.py output.png "A red apple"
@@ -71,7 +71,7 @@ Let's break this down:
 | Part | What It Means |
 |------|---------------|
 | `uv run python` | "Run the Python program using UV" |
-| `main.py` | The name of Nano Banana Pro's program file |
+| `main.py` | The name of Banana Brush CLI's program file |
 | `output.png` | The name you want for your image |
 | `"A red apple"` | Your description of what to create |
 
@@ -84,7 +84,7 @@ A "prompt" is your description of the image you want. The more detailed your pro
 
 ### What is an API Key?
 
-An API key is like a password that lets Nano Banana Pro talk to Google's AI. You get one for free from Google, and it looks like a long string of letters and numbers:
+An API key is like a password that lets Banana Brush CLI talk to Google's AI. You get one for free from Google, and it looks like a long string of letters and numbers:
 
 ```
 AIzaSyB1234567890abcdefghijklmnop
@@ -177,7 +177,7 @@ export GOOGLE_API_KEY="paste-your-key-here"
 
 ### Step 4: Navigate to the Project Folder
 
-In your terminal, you need to go to where Nano Banana Pro is located.
+In your terminal, you need to go to where Banana Brush CLI is located.
 
 ```bash
 cd path/to/nano-banana
@@ -197,7 +197,7 @@ cd ~/Downloads/nano-banana
 
 ### Step 5: Install Dependencies
 
-Run this command to install everything Nano Banana Pro needs:
+Run this command to install everything Banana Brush CLI needs:
 
 ```bash
 uv sync
@@ -263,7 +263,7 @@ To avoid typing your API key every time:
 
 ---
 
-## How to Use Nano Banana Pro
+## How to Use Banana Brush CLI
 
 ### Basic Image Generation
 
@@ -347,7 +347,7 @@ A style file is a text document (ending in `.md`) that contains detailed instruc
 
 ### Using the Built-in Style
 
-Nano Banana Pro comes with a "blue glass 3D" style:
+Banana Brush CLI comes with a "blue glass 3D" style:
 
 ```bash
 uv run python main.py icon.png "A gear" --style styles/blue_glass_3d.md
@@ -614,7 +614,7 @@ If you're stuck:
 
 You now know how to:
 
-- ✅ Install and set up Nano Banana Pro
+- ✅ Install and set up Banana Brush CLI
 - ✅ Generate images from text descriptions
 - ✅ Use style templates for consistency
 - ✅ Edit existing images

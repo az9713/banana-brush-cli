@@ -1,6 +1,6 @@
-# Quick Start Guide - Nano Banana Pro
+# Quick Start Guide - Banana Brush CLI
 
-Welcome to Nano Banana Pro! This guide will get you generating AI images in under 5 minutes, with 12 hands-on examples to help you master the tool quickly.
+Welcome to Banana Brush CLI! This guide will get you generating AI images in under 5 minutes, with 12 hands-on examples to help you master the tool quickly.
 
 ---
 
@@ -475,4 +475,4 @@ Now that you've mastered the basics:
 
 ---
 
-**Congratulations!** You now know how to use Nano Banana Pro effectively. Happy creating!
+**Congratulations!** You now know how to use Banana Brush CLI effectively. Happy creating!

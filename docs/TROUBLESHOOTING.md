@@ -1,6 +1,6 @@
 # Troubleshooting Guide
 
-Solutions for common problems when using Nano Banana Pro. Find your error message or symptom below.
+Solutions for common problems when using Banana Brush CLI. Find your error message or symptom below.
 
 ---
 
